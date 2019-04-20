@@ -1,0 +1,6 @@
+nf = int(input())
+ht = int(input())
+sal_h = float(input())
+sal_t = (ht * sal_h)
+print('NUMBER = {}'.format(nf))
+print('SALARY = U$ {:.2f}'.format(sal_t))

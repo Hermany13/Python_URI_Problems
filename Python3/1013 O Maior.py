@@ -1,0 +1,5 @@
+aux1 = input().split()
+a = int(aux1[0])
+b = int(aux1[1])
+c = int(aux1[2])
+print('{} eh o maior'.format(max(a, b, c)))
